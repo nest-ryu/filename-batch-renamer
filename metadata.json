@@ -1,0 +1,5 @@
+{
+  "name": "파일명 일괄 변경기",
+  "description": "소스 ZIP 파일의 파일명을 기준으로 타겟 ZIP 파일의 파일명을 일괄 변경하는 도구입니다.",
+  "requestFramePermissions": []
+}
