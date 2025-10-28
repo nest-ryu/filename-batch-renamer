@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/16nBFIiTGpW1TzlDxuUPc4O-Sq1V3EOiW
+View your app in AI Studio: https://nest-ryu.github.io/filename-batch-renamer/
 
 ## Run Locally
 
